@@ -57,7 +57,7 @@ def header(node):
 					di Roberto Mauro e Dolores Pascolo<br/>
 					<a title="Agriturismo Mauro su Google Maps" href="">Fraz. Oleis, Via Vittorio Veneto 1, Manzano, 33044 Udine</a><br/>
 					(sulla strada statale tra Manzano e Cividale del Friuli)<br/><br/>
-					tel/fax: +39 3803516322<br/>
+					tel: +39 3803516322<br/>
 				     	mail: <a href="#" title="indirizzo email dell'agriturismo mauro">info@agriturismomauro.it</a>
 				</div>
 			</div>
