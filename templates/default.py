@@ -48,10 +48,11 @@ def header(node):
 							<p class="hide">facebook</p>
 						</a>
 					</div>
-<!--					<div id="tripadvisor">
+					<div id="tripadvisor">
+						<a href="#" title="Agriturismo Mauro su TripAdvisor">
 							<p class="hide">tripadvisor</p>
 						</a>
-					</div> -->
+					</div> 
 				</div>
 				<div id="contacts">
 					di Roberto Mauro e Dolores Pascolo<br/>
