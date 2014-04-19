@@ -1,0 +1,7 @@
+notextile. <SCRIPT language="JavaScript">
+<!--
+window.location="/";
+//-->
+</SCRIPT> 
+
+This page is not available, please visit "home":/

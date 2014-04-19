@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://latavernaparadiso.it/</title>
+  <link>http://latavernaparadiso.it/</link>
+
+<item>
+     <link>http://latavernaparadiso.it/</link>
+     <title>Taverna Paradiso (alla Bassanese) - Ristorante a Cividale del Friuli | index</title>
+     <description>Ristorante a Cividale del Friuli, Trattoria</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
