@@ -34,14 +34,14 @@ def header(node):
 	</head>
 	<body>
 		<header class="container_16">
-			<div id="title" class="grid_10">
+			<div id="title" class="grid_9">
 				<a href="/" title="home page">
 					<h1>''' + site_name + '''</h1>
 					<h1>''' + subname + '''</h1>
 				</a>
 				<h2>''' + site_desc + '''</h2>
 			</div>
-			<div id="hright" class="grid_6 clearfix">
+			<div id="hright" class="grid_7 clearfix">
 				<div id="buttons">
 					<div id="facebook">
 						<a href="https://www.facebook.com/AgriturismoMauroVini" title="Agriturismo Mauro su Facebook">
@@ -56,8 +56,8 @@ def header(node):
 				</div>
 				<div id="contacts">
 					di Roberto Mauro e Dolores Pascolo<br/>
-					<a title="Agriturismo Mauro su Google Maps" href="">Fraz. Oleis, Via Vittorio Veneto 1, Manzano, 33044 Udine</a><br/>
-					(sulla strada statale tra Manzano e Cividale del Friuli)<br/><br/>
+					<a title="Agriturismo Mauro su Google Maps" href="">Fraz. Oleis, Via Vitt. Veneto 1, Manzano, 33044 Udine</a><br/>
+					(SP n. 19 Manzano - Cividale del Friuli)<br/><br/>
 					tel: +39 3803516322<br/>
 				     	mail: <a href="#" title="indirizzo email dell'agriturismo mauro">info@agriturismomauro.it</a>
 				</div>
