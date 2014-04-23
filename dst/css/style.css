@@ -27,8 +27,8 @@ h2 {
 }
 
 h1 {
-	font-size: 50px;
-	line-height: 50px;
+	font-size: 60px;
+	line-height: 60px;
 }
 
 h2 {
@@ -84,8 +84,11 @@ header {
 }
 
 #hright {
-	padding-top: 20px;
 	text-align: right;
+}
+
+#buttons {
+	height: 60px;
 }
 
 #tripadvisor a {
@@ -93,8 +96,8 @@ header {
 	width: 100px;
 	display: block;
 	border-radius: 10px;
-	margin-left: 20px;
-	float: right;
+	float: left;
+	background:url(/images/tripadvisor.png) no-repeat left top;
 }
 
 #facebook a {
@@ -102,25 +105,17 @@ header {
 	height: 40px;
 	width: 40px;
 	border-radius: 10px;
-	float: right;
-	margin-left: 20px;
-}
-
-#tripadvisor a {
-	background:url(/images/tripadvisor.png) no-repeat right top;
-}
-
-#facebook a {
-	background:url(/images/facebook.png) no-repeat right top;
+	float: left;
+	background:url(/images/facebook.png) no-repeat left top;
 }
 
 #contacts {
-	margin-top: 60px;
+	margin-top: 40px;
 }
 
 #center {
 	background-color: brown;
-	background:url(/images/wood-bg1.jpg) no-repeat right center;
+	background:url(/images/wood-bg1.jpg) repeat right center;
 	margin-bottom: 20px;
 }
 
