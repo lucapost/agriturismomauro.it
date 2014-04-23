@@ -1,7 +1,7 @@
 import datetime
 
 language = "it"
-keywords = "agriturismo, manzano, vini, cucina friulana, cividale del friuli, trattoria, mangiare"
+keywords = "agriturismo, manzano, vini, cucina friulana, ronchi del sole, colli orientali"
 description = "Agriturismo ad Oleis di Manzano"
 title = "Agriturismo Mauro - Cucina e vendita vini"
 site_name = "Agriturismo Mauro"
