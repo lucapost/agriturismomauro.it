@@ -6,7 +6,8 @@ $(function(){
     window.mf = new flux.slider('#slider', {
         autoplay: true,
         pagination: false,
-        delay: 7000
+	transitions: [ 'dissolve' ],
+	delay: 5500
     });
 
     // binding onclick events for our transitions
