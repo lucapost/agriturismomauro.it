@@ -8,9 +8,9 @@
 
 html,
 body {
-	font-size: 16px;
+	font-size: 20px;
 	line-height:20px;
-	font-family: 'Nobile', arial, serif;
+	font-family: 'Gruppo', 'Nobile', arial, serif;
 	padding: 0px; 
 	margin: 0px; 
 	width: 100%;
@@ -78,6 +78,7 @@ a:hover {
 header {
 	margin: 0;
 	background-color: white;
+	font-family: 'Gruppo', arial, serif; 
 }
 
 #title {
@@ -118,6 +119,8 @@ header {
 
 #contacts {
 	margin-top: 20px;
+	font-size: 20px;
+	font-weight: bold;
 }
 
 #center {
@@ -298,6 +301,9 @@ section img.piatti {
 footer {
 	margin-bottom: 20px;
 	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Gruppo', arial, serif; 
 }
 
 #right {
