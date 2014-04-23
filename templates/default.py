@@ -39,7 +39,8 @@ def header(node):
 					<h1>''' + site_name + '''</h1>
 	<!--				<h1>''' + subname + '''</h1> -->
 				</a>
-				<h2>''' + site_desc + '''</h2>
+				<h2>''' + site_desc2 + '''</h2>
+				<h2>''' + site_desc1 + '''</h2>
         <!--				<div id="buttons">
 					<div id="tripadvisor" class="alpha grid_2">
 						<a href="#" title="Agriturismo Mauro su TripAdvisor">
