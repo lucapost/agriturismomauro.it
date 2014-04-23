@@ -4,7 +4,6 @@
 @import url(http://fonts.googleapis.com/css?family=Nobile);
 @import url(http://fonts.googleapis.com/css?family=Gruppo:regular&v1);
 @import url(http://fonts.googleapis.com/css?family=Calligraffitti&v1);
-@import url(http://fonts.googleapis.com/css?family=Pacifico);
 @import url(/css/hashgrid.css);
 
 html,
@@ -22,13 +21,14 @@ body {
 
 h1,
 h2 {
-	font-family: 'Calligraffitti', arial, serif; 
+	font-family: 'Gruppo', arial, serif; 
 }
 
 h1 {
-	font-size: 54px;
-	line-height: 60px;
+	font-size: 40px;
+	line-height: 40px;
 	color: #87410E;
+	padding-bottom: 20px;
 }
 
 h2 {
@@ -80,7 +80,7 @@ header {
 }
 
 #title {
-	padding-top: 40px;
+	padding-top: 20px;
 }
 
 #title a,
@@ -116,7 +116,7 @@ header {
 }
 
 #contacts {
-	margin-top: 40px;
+	margin-top: 20px;
 }
 
 #center {
@@ -127,8 +127,8 @@ header {
 
 #main {
 	background:url(/images/uva.png) no-repeat left center;
-	background:url(/images/cavallo.png) no-repeat left center;
-	background-size: 400px 400px
+/*	background:url(/images/cavallo.png) no-repeat left center;
+	background-size: 400px 400px;*/
 }
 
 #main h2 {

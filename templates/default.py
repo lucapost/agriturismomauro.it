@@ -37,7 +37,6 @@ def header(node):
 			<div id="title" class="grid_9">
 				<a href="/" title="home page">
 					<h1>''' + site_name + '''</h1>
-	<!--				<h1>''' + subname + '''</h1> -->
 				</a>
 				<h2>''' + site_desc2 + '''</h2>
 				<h2>''' + site_desc1 + '''</h2>
