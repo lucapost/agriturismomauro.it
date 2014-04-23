@@ -68,6 +68,12 @@ a:hover {
 	margin-top: 20px;
 }
 
+#page {
+	margin-top: 20px;
+	margin-bottom: 40px;
+	background: url('/images/op.png');
+}
+
 header {
 	margin: 0;
 	background-color: white;
@@ -115,7 +121,7 @@ header {
 
 #center {
 	background-color: brown;
-	background:url(/images/wood-bg1.jpg) repeat right center;
+	background:url(/images/wood-bg1_op.jpg) repeat right center;
 	margin-bottom: 20px;
 }
 

@@ -1,3 +1,5 @@
+notextile. <div class="grid_16" id="page">
+
 h2(top20). Informativa sul trattamento dei dati personali 
 
 h2. (ex art. 13 D.Lgs. n. 196 del 30 giugno 2003)
@@ -50,3 +52,5 @@ Art. 7 – Diritto di accesso ai dati personali ed altri diritti
 # L’interessato ha diritto di opporsi, in tutto o in parte:
 ** per motivi legittimi al trattamento dei dati personali che lo riguardano, ancorché pertinenti allo scopo della raccolta;
 ** al trattamento di dati personali che lo riguardano a fini di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o di comunicazione commerciale.
+
+</div>
