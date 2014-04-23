@@ -23,12 +23,12 @@ body {
 h1,
 h2 {
 	font-family: 'Calligraffitti', arial, serif; 
-	color: #87410E;
 }
 
 h1 {
 	font-size: 60px;
 	line-height: 60px;
+	color: #87410E;
 }
 
 h2 {
@@ -111,7 +111,6 @@ header {
 
 #contacts {
 	margin-top: 40px;
-	color: #87410E;
 }
 
 #center {
