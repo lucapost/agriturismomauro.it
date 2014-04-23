@@ -71,7 +71,8 @@ a:hover {
 #page {
 	margin-top: 20px;
 	margin-bottom: 20px;
-	background: url('/images/op.png');
+	background: url('/images/op95.png');
+	border-radius: 5px;
 }
 
 header {
@@ -210,6 +211,7 @@ header {
 	width:340px;
 	height:360px;
 	border-radius: 5px;
+	background: url('/images/op95.png');
 }
 
 .horizontalaccordion>ul>li:hover {
