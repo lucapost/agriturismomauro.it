@@ -57,7 +57,7 @@ def header(node):
 				<div id="contacts">
 					di R. Mauro e D. Pascolo<br/><br/>
 					<a title="Agriturismo Mauro su Google Maps" href="">Via Vitt. Veneto 1, Fraz. Oleis<br/>Manzano, 33044 Udine</a><br/><br/>
-				     	mail: <a href="#" title="indirizzo email dell'agriturismo mauro">info@agriturismomauro.it</a><br/>
+				     	<a href="#" title="indirizzo email dell'agriturismo mauro">info@agriturismomauro.it</a><br/>
 					tel: +39 3803516322<br/>
 					+39 0432740029
 				</div>

@@ -4,13 +4,14 @@
 @import url(http://fonts.googleapis.com/css?family=Nobile);
 @import url(http://fonts.googleapis.com/css?family=Gruppo:regular&v1);
 @import url(http://fonts.googleapis.com/css?family=Calligraffitti&v1);
+@import url(http://fonts.googleapis.com/css?family=Varela);
 @import url(/css/hashgrid.css);
 
 html,
 body {
 	font-size: 20px;
 	line-height:20px;
-	font-family: 'Gruppo', 'Nobile', arial, serif;
+	font-family: 'Varela', 'Nobile', arial, serif;
 	padding: 0px; 
 	margin: 0px; 
 	width: 100%;
@@ -21,7 +22,7 @@ body {
 
 h1,
 h2 {
-	font-family: 'Gruppo', arial, serif; 
+	font-family: 'Varela', arial, serif; 
 }
 
 h1 {
@@ -78,7 +79,6 @@ a:hover {
 header {
 	margin: 0;
 	background-color: white;
-	font-family: 'Gruppo', arial, serif; 
 }
 
 #title {
@@ -303,8 +303,6 @@ footer {
 	margin-bottom: 20px;
 	text-align: center;
 	font-weight: bold;
-	font-size: 20px;
-	font-family: 'Gruppo', arial, serif; 
 }
 
 #right {

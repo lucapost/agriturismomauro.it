@@ -7,3 +7,8 @@ update:
 	git push
 upload:	
 	rsync -avr -e ssh ./dst/* flarevm:www/agriturismomauro.it
+
+all:	
+	make compile
+	make update
+	make upload
