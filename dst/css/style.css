@@ -126,7 +126,7 @@ header {
 
 #center {
 	background-color: brown;
-	background:url(/images/wood-bg1_op.jpg) no-repeat center center;
+	background:url(/images/wood-bg1_op.jpg) repeat-y center center;
 	margin-bottom: 20px;
 }
 
