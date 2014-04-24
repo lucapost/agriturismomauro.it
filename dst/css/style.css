@@ -25,8 +25,8 @@ h2 {
 }
 
 h1 {
-	font-size: 40px;
-	line-height: 40px;
+	font-size: 52px;
+	line-height: 60px;
 	color: #87410E;
 	padding-bottom: 20px;
 }
@@ -119,6 +119,7 @@ header {
 
 #contacts {
 	margin-top: 20px;
+	margin-bottom: 20px;
 	font-size: 20px;
 	font-weight: bold;
 }

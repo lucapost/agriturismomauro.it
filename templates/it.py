@@ -7,7 +7,7 @@ title = "Agriturismo Mauro - Cucina e vendita vini"
 site_name = "Agriturismo Mauro"
 subname = "ad Oleis di Manzano"
 site_desc1 = "Cucina tipica friulana"
-site_desc2 = "Colli Orientali del Friuli, Ronchi del Sole"
+site_desc2 = "Vini dei Colli Orientali del Friuli, Ronchi del Sole"
 src_dir = "src/it"
 dst_dir = "dst"
 execfile('templates/default.py')
