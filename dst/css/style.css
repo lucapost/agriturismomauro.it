@@ -2,16 +2,15 @@
 @import url(/css/text.css);
 @import url(/css/960.css);
 @import url(http://fonts.googleapis.com/css?family=Nobile);
-@import url(http://fonts.googleapis.com/css?family=Gruppo:regular&v1);
-@import url(http://fonts.googleapis.com/css?family=Calligraffitti&v1);
-@import url(http://fonts.googleapis.com/css?family=Varela);
+@import url(http://fonts.googleapis.com/css?family=Great+Vibes);
+@import url(http://fonts.googleapis.com/css?family=Varella);
 @import url(/css/hashgrid.css);
 
 html,
 body {
 	font-size: 20px;
 	line-height:20px;
-	font-family: 'Varela', 'Nobile', arial, serif;
+	font-family: 'Nobile', arial, serif;
 	padding: 0px; 
 	margin: 0px; 
 	width: 100%;
@@ -20,19 +19,18 @@ body {
 	background-color: white;
 }
 
-h1,
-h2 {
-	font-family: 'Varela', arial, serif; 
-}
-
 h1 {
-	font-size: 52px;
+	font-family: 'Great Vibes', arial, serif; 
+	font-size: 60px;
 	line-height: 60px;
 	color: #87410E;
 	padding-bottom: 20px;
+	font-weight: normal;
 }
 
 h2 {
+	font-family: 'Nobile', arial, serif; 
+	font-weight: normal;
 	font-size: 20px;
 	line-height: 20px;
 }
@@ -121,7 +119,7 @@ header {
 	margin-top: 20px;
 	margin-bottom: 20px;
 	font-size: 20px;
-	font-weight: bold;
+	font-weight: normal;
 }
 
 #center {
@@ -134,12 +132,6 @@ header {
 	background:url(/images/uva.png) no-repeat left center;
 /*	background:url(/images/cavallo.png) no-repeat left center;
 	background-size: 400px 400px;*/
-}
-
-#main h2 {
-	font-size: 18px;
-	font-family: 'Gruppo', Arial, Serif;
-	line-height: 20px;
 }
 
 .horizontalaccordion {
@@ -170,7 +162,8 @@ header {
 }
 
 .horizontalaccordion>ul>li>h2 {
-	font-size: 24px;
+	font-size: 20px;
+	font-family: 'Varella', arial, serif; 
 	text-shadow: 1px 1px 1px #aaa;
 	display:block;
 	float:left;
@@ -303,7 +296,7 @@ section img.piatti {
 footer {
 	margin-bottom: 20px;
 	text-align: center;
-	font-weight: bold;
+	font-weight: normal;
 }
 
 #right {
