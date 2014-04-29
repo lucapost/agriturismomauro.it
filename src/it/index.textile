@@ -6,7 +6,13 @@ h2. Agriturismo
 
 notextile. <section>
 
-descrizione agriturismo
+L'_Agriturismo Mauro_ ad Oleis di Manzano, a due passi dall'"Abbazia di Rosazzo(sito internet dell'abbazia di rosazzo)":http://www.abbaziadirosazzo.it, nasce dalla passione di Roberto e Dolores per la cantina ed i piatti tipici friulani.
+
+A disposizione ci sono 50 posti a sedere, dei quali 10 nel terrazzo all'esterno, è adatto ad ospitare pranzi e cene di amici, compleanni e cerimonie.
+
+È aperto tutto l'anno, tutti i giorni della settimana, a pranzo ed a cena, dalle ore 10 alle ore 24.
+
+Dispone di un ampio cortile e parcheggio.
 
 notextile. </section>
 </li>
@@ -16,7 +22,18 @@ h2. Piatti
 
 notextile. <section>
 
-elenco piatti
+I piatti dell'_Agriturismo Mauro_ si basano sulla cucina friulana semplice e genuina. 
+
+I nostri clienti posso apprezzare piatti di stagione basati su:
+
+* pasta fatta in casa
+* minestroni di orzo e fagioli
+* affettati di produzione propria di animali allevati in azienda
+* carni alla brace
+* frittate con le erbe di stagione
+* salame e cipolla
+* coniglio e polenta con ricette tradizionali
+* dolci fatti in casa.
 
 notextile. </section>
 </li>
@@ -26,7 +43,16 @@ h2. Cantina
 
 notextile. <section>
 
-elenco vini
+L'_Agriturismo Mauro_ nasce come azienda agricola per la produzione e la vendita diretta di vini friulani.
+
+L'azienda famigliare coltiva 5 ettari di vigneti, Roberto si occupa di ogni aspetto dalla potatura all'imbottigliamento.
+
+È possibile acquistare i nostri vini sia in bottiglia che in formati più grandi direttamente nella sede della nostra azienda. Disponiamo di:
+
+* merlot
+* cabernet franc
+* friulano
+* pinot grigio
 
 notextile. </section>
 </li>
@@ -36,7 +62,7 @@ h2. Newsletter
 
 notextile. <section>
 
-newsletter
+work in progress!
 
 notextile. </section>
 </li>
