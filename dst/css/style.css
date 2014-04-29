@@ -134,6 +134,10 @@ header {
 	background-size: 400px 400px;*/
 }
 
+#main h2 {
+	font-weight: bold;
+}
+
 .horizontalaccordion {
 	background-color: inherit;
 }	
